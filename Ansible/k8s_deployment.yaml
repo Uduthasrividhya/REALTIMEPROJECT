@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: banvi2022/batch13:15
+        image: banvi2022/batch13:16
         ports:
         - containerPort: 8080
 ---
